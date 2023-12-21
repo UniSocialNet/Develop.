@@ -1,1 +1,2 @@
-[60 Linux Commands you NEED to know (in 10 minutes)](https://youtu.be/gd7BXuUQ91w)
+- [60 Linux Commands you NEED to know (in 10 minutes)](https://youtu.be/gd7BXuUQ91w)
+- [18 Commands That Will Change The Way You Use Linux Forever](https://youtu.be/AVXYq8aL47Q)
